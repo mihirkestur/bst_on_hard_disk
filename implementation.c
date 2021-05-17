@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include "assignment_4.h"
-//Name: Mihir Madhusudan Kestur   SRN: PES1UG19CS272     Section: E     Semester: 4
+#include "header.h"
 
 //from the file, to the bs_tree read the header of tree present in file
 static void read_header(FILE *file_ptr, tree_t *bs_tree){
