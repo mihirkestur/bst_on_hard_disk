@@ -1,4 +1,8 @@
 # bst_on_hard_disk
+
+This program demonstrates a method to store data structures in files. Normally, a data structure when created in a program have no meaning when the program is stopped since the pointers after the execution of program have no relavance.<br>
+In this project a binary tree is implemented and stored on the hard disk.
+
 Key takeaways from this assignment:
 - Gained insight into how a data structure can be stored on the hard disk
 - Learnt to use the offset strategy to represent nodes and links
